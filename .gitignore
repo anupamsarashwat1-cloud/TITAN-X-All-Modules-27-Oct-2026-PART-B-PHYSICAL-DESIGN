@@ -1,0 +1,18 @@
+# Simulation traces
+*.vcd
+*.fsdb
+
+# EDA temporary runs and logs
+*.log
+*.jou
+*.rpt
+openlane/titan_x_soc/runs/
+runs/
+_build/
+tmp/
+.cache/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+.DS_Store
